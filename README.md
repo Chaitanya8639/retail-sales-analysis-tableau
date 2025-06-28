@@ -33,8 +33,6 @@ This project presents a data-driven analysis of retail sales using Tableau. The 
 - `visuals/` – (optional) Screenshots of Tableau dashboards
 - `data/` – (optional) Cleaned data in CSV format
 
-## 📽️ Demo
-A 5-minute walkthrough video explains the dashboard and insights derived. (Link to be added)
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
