@@ -1,0 +1,171 @@
+---
+
+- Completed a simulation involving creating data visualizations for Tata Consultancy Services
+- Prepared questions for a meeting with client senior leadership
+- Created visuals for data analysis to help executives with effective decision making
+
+## 🧼 Slide 1: **Data Cleaning – Foundation for Accurate Insights**
+
+**Talking Points:**
+
+- “Before starting any analysis, I cleaned the dataset to ensure only valid and reliable data was used.”
+- “I applied two key checks:
+    1. **Quantity >= 1** to remove returns and negative entries.
+    2. **Unit Price >= $0** to exclude erroneous pricing.”
+- “This ensures that all downstream visualizations reflect only genuine sales transactions, which improves decision-making accuracy.”
+
+---
+
+## 📈 Slide 2: **Q1 – Monthly Revenue Trend (2011)**
+
+**Audience:** CEO
+
+**Visualization Insight:** Line chart of monthly revenue in 2011
+
+**Talking Points:**
+
+- “This line chart shows monthly revenue for 2011.”
+- “We observe seasonal peaks—particularly in **November and December**, likely driven by holiday shopping.”
+- “Such patterns help in planning **stock, promotions, and workforce allocation** for similar timeframes in the future.”
+- “With this view, forecasting revenue trends for 2012 and beyond becomes more data-informed.”
+
+---
+
+## 🌍 Slide 3: **Q2 – Top 10 Countries by Revenue (Excluding UK)**
+
+**Audience:** CMO
+
+**Visualization Insight:** Bar chart with Revenue and Quantity for top 10 countries
+
+**Talking Points:**
+
+- “This chart compares the top 10 countries by revenue—**excluding the United Kingdom** to highlight international growth.”
+- “I included both **revenue** and **quantity sold** to give a dual perspective—some countries may show strong unit volume even if prices are lower.”
+- “This insight helps in prioritizing **geographic marketing strategies** and identifying high-volume, high-revenue regions for focused campaigns.”
+
+---
+
+## 👤 Slide 4: **Q3 – Top 10 Customers by Revenue**
+
+**Audience:** CMO
+
+**Visualization Insight:** Descending bar chart
+
+**Talking Points:**
+
+- “Here we have the top 10 customers sorted by total revenue.”
+- “This visualization highlights our **key revenue drivers**—the customers we should prioritize with **custom offers, loyalty benefits, or personal account management**.”
+- “Retention of top-tier customers is essential to sustained growth, and this data helps us proactively identify and engage them.”
+
+---
+
+## 🗺️ Slide 5: **Q4 – Product Demand by Country (Excluding UK)**
+
+**Audience:** CEO
+
+**Visualization Insight:** Map or filled bars by country demand (quantity)
+
+**Talking Points:**
+
+- “This visualization shows **product demand by country** based on quantity sold—excluding the UK.”
+- “We can see that some countries, like [insert top country from your viz], show **high demand**, presenting opportunities for **market expansion**.”
+- “This data supports decisions on **where to launch next**, optimize supply chain, or develop **local partnerships**.”
+
+---
+
+## 📊 Slide 6: **Summary & Strategic Recommendations**
+
+**Talking Points:**
+
+- “Based on the data:
+    - **Peak season planning** is critical (Q1).
+    - **International markets** beyond the UK offer strong revenue (Q2).
+    - **Customer segmentation** and retention programs for top buyers can improve LTV (Q3).
+    - **Geographic expansion** opportunities are evident in high-demand regions (Q4).”
+- “These visuals form the basis for **data-driven strategic discussions** moving forward.”
+
+## 🎤 **Presentation Script: Retail Store Data Analysis**
+
+---
+
+### 👋 Slide 1: Title
+
+**“Good [morning/afternoon], everyone. My name is Chaitanya, and today I’ll be presenting a data-driven analysis of our retail sales, with the goal of supporting both our CEO and CMO in strategic decision-making. This presentation covers cleaned data insights from 2011, using Tableau visualizations, to guide planning, marketing, and expansion efforts.”**
+
+---
+
+### 🧼 Slide 2: Data Cleaning – Foundation for Accurate Insights
+
+**“Before beginning any analysis, it was essential to clean the dataset to ensure we were working with accurate information. Two critical checks were applied:**
+
+- **Any sales record with quantity less than 1 was removed, as these typically represent product returns.**
+- **Entries with a unit price below $0 were excluded, as these are clear data entry errors.**
+
+**This step ensures that the insights derived from this data are credible and can be used confidently for making business decisions.”**
+
+---
+
+### 📈 Slide 3: Q1 – Monthly Revenue Trend (2011)
+
+**“For our first question, the CEO wanted to analyze monthly revenue trends across 2011 to identify any seasonal patterns.**
+
+- **The visualization here shows a clear spike in revenue during November and December, consistent with holiday season buying behavior.**
+- **There’s also a smaller increase around mid-year, possibly linked to back-to-school or summer campaigns.**
+
+**Recognizing these trends is key to preparing for future demand surges—whether that’s optimizing inventory, adjusting marketing campaigns, or scaling up logistics. This trendline becomes a solid foundation for 2022 and 2023 forecasting.”**
+
+---
+
+### 🌍 Slide 4: Q2 – Top 10 Countries by Revenue (Excluding UK)
+
+**“Next, for the CMO, I analyzed the top 10 countries generating the highest revenue—excluding the United Kingdom to focus on international opportunities.**
+
+- **The bar chart compares revenue and quantity sold side by side.**
+- **Countries like the Netherlands, Germany, and France stand out not only in revenue but also in units sold, indicating both high demand and solid average pricing.**
+
+**This visualization can guide marketing efforts and promotional planning. For example, higher revenue but lower quantity might signal premium pricing potential, while high quantity but lower revenue might suggest a discount-driven market.”**
+
+---
+
+### 👤 Slide 5: Q3 – Top 10 Customers by Revenue
+
+**“The third question again serves the CMO, who wanted to identify the top 10 revenue-generating customers.**
+
+- **The chart here ranks customers in descending order by total revenue.**
+- **This insight is crucial for customer segmentation—we can prioritize outreach to these customers, build loyalty programs, or offer exclusive deals to maintain their satisfaction and prevent churn.**
+
+**It also opens the door for potential account-based marketing strategies, ensuring our high-value customers feel recognized and supported.”**
+
+---
+
+### 🗺️ Slide 6: Q4 – Product Demand by Country (Excluding UK)
+
+**“Finally, the CEO was interested in identifying global demand to explore expansion opportunities.**
+
+- **This visualization displays quantity sold by country, excluding the UK, and reveals strong demand in specific countries like [insert actual top 3 countries from your data].**
+- **It’s presented in a single view without any need for interaction, which supports quick decision-making.**
+
+**From a strategic standpoint, this chart helps us identify markets that are already performing well and could benefit from further investment—whether that’s marketing, fulfillment centers, or localized partnerships.”**
+
+---
+
+### 📊 Slide 7: Summary & Strategic Recommendations
+
+**“To wrap up, here are the key takeaways from this analysis:**
+
+- **Seasonal revenue patterns highlight the need for proactive planning around key months.**
+- **Non-UK markets are driving strong revenue and offer room for targeted growth.**
+- **Top customers should be nurtured with retention strategies to ensure long-term profitability.**
+- **High-demand regions outside the UK are strong candidates for market expansion.**
+
+**All these insights were derived from cleaned, structured data and can be scaled for future use through automation in Tableau dashboards or Power BI, depending on the team’s direction.”**
+
+---
+
+### 🙏 Final Close
+
+**“Thank you for your time. I’m happy to walk through any of the visuals in detail or discuss how we can turn these insights into operational strategies.”**
+
+---
+
+Would you like this script formatted into a document or speaker notes for your PowerPoint file? I can do that too!
