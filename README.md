@@ -29,7 +29,7 @@ This project presents a data-driven analysis of retail sales using Tableau. The 
 ## 📁 Files Included
 - `Questions.twb` – Tableau Workbook containing all dashboards
 - `Retail_Analysis_Presentation.pptx` – Slide deck used for executive presentation
-- `Presentation_Script_5min.txt` – 5-minute narration script
+- `Presentation_Script.txt` – 5-minute narration script
 - `visuals/` – (optional) Screenshots of Tableau dashboards
 - `data/` – (optional) Cleaned data in CSV format
 
