@@ -30,12 +30,19 @@ This project presents a data-driven analysis of retail sales using Tableau. The 
 - `Questions.twb` – Tableau Workbook containing all dashboards
 - `Retail_Analysis_Presentation.pptx` – Slide deck used for executive presentation
 - `Presentation_Script.txt` – 5-minute narration script
-- `visuals/` – (optional) Screenshots of Tableau dashboards
 - `data/` – (optional) Cleaned data in CSV format
 
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
+## 📊 Animated Dashboard Preview
+
+![Retail Dashboard GIF](Tableau_Visuals_Animated.gif)
+
+This animation showcases:
+- 📈 Monthly Revenue Trends (Q1)
+- 🌍 Top Countries by Revenue (Q2)
+- 👤 Top Customers by Revenue (Q3)
+- 🗺️ Product Demand by Country (Q4)
+
 
 ## 🤝 Contact
 Created by **Chaitanya (Chaitu)** – Reach out via GitHub or LinkedIn for collaboration or questions.
