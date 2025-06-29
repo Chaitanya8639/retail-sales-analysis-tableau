@@ -33,7 +33,7 @@ This project presents a data-driven analysis of retail sales using Tableau. The 
 - `data/` – (optional) Cleaned data in CSV format
 
 
-## 📊 Animated Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Retail Dashboard GIF](Tableau_Visuals_Animated.gif)
 
