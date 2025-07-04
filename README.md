@@ -3,15 +3,15 @@ Welcome to the repository for my completed TATA Data Visualisation Virtual Exper
 ## 📊 Project Overview
 This project presents a data-driven analysis of retail sales using Tableau. The goal was to address key questions raised by the CEO and CMO regarding revenue trends, customer performance, and regional demand, using 2011 sales data.
 
-##📌 Task Breakdown
+## 📌 Task Breakdown
 
-✅ Task 1: Data Cleaning
+ ### ✅ Task 1: Data Cleaning
 
 Removed rows with negative quantities and zero/negative unit prices
 Filtered transactions for the year 2011
 Ensured consistent column formatting
 
-✅ Task 2: Exploratory Data Analysis
+### ✅ Task 2: Exploratory Data Analysis
 
 Framed the business questions from the CEO & CMO’s perspective:
 What are the monthly revenue trends?
@@ -19,7 +19,7 @@ Which international countries (excluding the UK) are performing best?
 Who are our top customers?
 Where should we expand next?
 
-✅ Task 3: Data Visualisation
+### ✅ Task 3: Data Visualisation
 
 Created key visualisations using Power BI:
 Line chart for monthly revenue trends
@@ -27,7 +27,7 @@ Bar chart for top 10 countries by revenue (excluding the UK)
 Bar chart for top 10 customers by revenue
 Map chart to highlight expansion opportunities by demand
 
-✅ Task 4: Presentation
+### ✅ Task 4: Presentation
 
 Delivered a clear 5-minute business presentation answering stakeholder questions using insights from visualised data, including:
 Seasonality awareness (e.g., revenue peak in November)
