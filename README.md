@@ -54,10 +54,10 @@ This project presents a data-driven analysis of retail sales using Tableau. The 
 - **Excel** – Basic data cleaning and formatting
 
 ## 📁 Files Included
-- `Visualization/Questions.twb` – Tableau Workbook containing all dashboards
-- `Visualization/Retail_Analysis_Presentation.pptx` – Slide deck used for executive presentation
-- `Visualization/Presentation_Script.txt` – 5-minute narration script
-- `Online Retail Dataset.xlsx/` – (optional) Cleaned data in CSV format
+- [Visualization/Questions.twb]() – Tableau Workbook containing all dashboards
+- [Visualization/Retail_Analysis_Presentation.pptx]() – Slide deck used for executive presentation
+- [Visualization/Presentation_Script.txt]() – 5-minute narration script
+- [Online Retail Dataset.xlsx/]() – (optional) Cleaned data in CSV format
 
 ## 📊 Dashboard Preview
 
