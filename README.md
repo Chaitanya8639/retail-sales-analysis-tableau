@@ -71,4 +71,5 @@ This animation showcases:
 
 
 ## 🤝 Contact
-Created by **Chaitanya (Chaitu)** – Reach out via GitHub or LinkedIn for collaboration or questions.
+Created by **Chaitanya (Chaitu)** – 
+Reach out via [GitHub](https://github.com/Chaitanya8639) or [LinkedIn](https://www.linkedin.com/in/j-chaitanya-venkata-sai-narayana-6407311a7/) for collaboration or questions.
